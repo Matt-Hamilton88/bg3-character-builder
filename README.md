@@ -1,6 +1,8 @@
-# BG3 Character Builder
+# Project BG3 Genesis
 
-A Python-based Baldur’s Gate 3 character builder for planning classes, subclasses, and level progression.
+A Python-based, lightweight, extensible character creation engine designed for experimenting with new Baldur’s Gate 3 builds before starting a fresh run.
+Genesis is the beginning — a place to explore ideas, test class concepts, and understand how stats, AC, HP, and proficiencies interact at level one.
+This project focuses on clarity, modularity, and faithful mechanical modeling, making it a foundation for future expansion into subclasses, leveling, equipment, and more.
 
 ## Features
 
